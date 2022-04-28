@@ -1,0 +1,158 @@
+
+
+.top{
+    top: 0;
+    width: 100%;
+    height: 40px;
+    background-color: aqua;
+    font-size: 30px;
+    text-align: center;
+    position: fixed;
+}
+
+.logo{
+    margin-top: 40px;
+    width: 100%;
+    height: 80px;
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+}
+
+.logo-left{
+    width: 20%;
+    height: 80px;
+    color: black;
+    float: left;
+ 
+}
+
+.logo-right{
+    width: 100%;
+    height: 120px;
+    
+    float: right;
+    font-size: 30px;
+    text-align: center;
+}
+
+.logo-right ul li {
+    color: black;
+    display: inline-table;
+    padding: 28px;
+}
+
+.background{
+    margin: 10px;
+    width: 100%;
+    height: 256px;
+    background-image: url(1.jpg);
+    background-size: 100%;
+}
+
+.content{
+    margin: 0 auto;
+    max-width: 80%;
+    height: 1000px;
+    background-color: black;
+}
+.content-left{
+    width: 25%;
+    height: 1000px;
+    background-color: aquamarine;
+    float: left;
+}
+
+.hotro{
+    width: 100%;
+    background-color: #808080;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.mrtien{
+    width: 100%;
+    height:60px ;
+    padding: 10px;
+}
+.msha{
+    width: 100%;
+    height:60px ;
+    padding: 10px;
+}
+
+.mrquy{
+    width: 100%;
+    height:60px ;
+    padding: 10px;
+}
+
+
+.content-right{
+    width: 75%;
+    height: 1000px;
+    background-color: black;
+    float: right;
+}
+
+.sanpham{
+    width: 100%;
+    background-color: #669999;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.mayxuc{
+    width: 26.7%;
+    height: 220px;
+    padding: 15px;
+    text-align: center;
+    float: left;
+    background-color: antiquewhite;
+
+}
+.daukeodo{
+    width: 30%;
+    height: 220px;
+    padding: 15px;
+    text-align: center;
+    float: left;
+    background-color: antiquewhite;
+
+}
+.howo79{
+    width: 30%;
+    height: 220px;
+    padding: 15px;
+    text-align: center;
+    float: left;
+    background-color: antiquewhite;
+
+}
+.romooc{
+    width: 26.7%;
+    height: 220px;
+    padding: 15px;
+    text-align: center;
+    float: left;
+    background-color: antiquewhite;
+
+}
+
+.haichan{
+    width: 30%;
+    height: 220px;
+    padding: 15px;
+    text-align: center;
+    float: left;
+    background-color: antiquewhite;
+
+}
